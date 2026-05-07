@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78046150500fa644e81b4026d4dc5cc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Scanner
-  TerrainScannerPrefab: {fileID: 0}
+  TerrainScannerPrefab: {fileID: 8080769660961030322, guid: 308f9a90d10e6264dbca9355ad6c01a4, type: 3}
   duration: 3
   size: 50
   scanAction:
